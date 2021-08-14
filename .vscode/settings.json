@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "projIAC.C": "cpp",
+        "calculo.h": "c",
+        "media.h": "c"
+    }
+}
